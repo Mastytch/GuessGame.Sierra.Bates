@@ -1,7 +1,7 @@
 package Part2.GuessGame;
 
 public class Player {
-    int number = 0;
+    int number = 0; //comments
 
     public void guess() {
         number = (int)(Math.random() * 10);
